@@ -81,7 +81,7 @@ body {
 }
 
 .header > div > #login:hover {
-  color: black;
+  color: orange;
 }
 
 .header > div > #signup {
