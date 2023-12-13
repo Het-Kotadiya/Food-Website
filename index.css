@@ -134,19 +134,17 @@ body {
   }
 }
 
-@media (max-width: 400px){
-  .header > div{
+@media (max-width: 400px) {
+  .header > div {
     width: 50%;
   }
 
-  #Signup{
+  #Signup {
     width: 50%;
   }
 
-  .main-container{
+  .main-container {
     height: 80%;
     margin-top: 15%;
   }
-
-
 }
