@@ -151,9 +151,12 @@ body {
   .tagline {
     margin-top: 10%;
   }
-  .tagline h3,
-  h1 {
+  .tagline h3{
     font-size: 20px;
+  }
+
+  .tagline h1{
+    font-size: 25px;
   }
 
   .login-form {
