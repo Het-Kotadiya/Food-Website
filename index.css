@@ -147,4 +147,17 @@ body {
     height: 80%;
     margin-top: 15%;
   }
+
+  .tagline {
+    margin-top: 10%;
+  }
+  .tagline h3,
+  h1 {
+    font-size: 20px;
+  }
+
+  .login-form {
+    position: relative;
+    margin-top: 10%;
+  }
 }
