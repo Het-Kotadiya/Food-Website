@@ -82,9 +82,6 @@ body {
 
 .header > div > #login:hover {
   color: orange;
-  width: 30%;
-  text-align: center;
-  border: 1px solid black;
 }
 
 .header > div > #signup {
