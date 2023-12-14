@@ -111,7 +111,7 @@ body {
 #Signup {
   border-radius: 0;
   width: 25%;
-  /* color: #fc8019; */
+  border: none;
   background-color: black;
   font-size: large;
 }
